@@ -1,4 +1,4 @@
-# Odin Recipes (With Slightly Too Much Confidence)
+# Recipes (With Slightly Too Much Confidence)
 
 Welcome to my very proper recipe website project.
 
