@@ -1,4 +1,4 @@
-# Recipes (With Slightly Too Much Confidence)
+# Recipes 
 
 Welcome to my very proper recipe website project.
 
